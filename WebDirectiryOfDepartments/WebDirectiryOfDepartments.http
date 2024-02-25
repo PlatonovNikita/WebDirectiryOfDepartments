@@ -1,0 +1,6 @@
+@WebDirectiryOfDepartments_HostAddress = http://localhost:5085
+
+GET {{WebDirectiryOfDepartments_HostAddress}}/swagger/v1/swagger.json
+Accept: application/json
+
+###
